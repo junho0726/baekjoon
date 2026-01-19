@@ -1,7 +1,7 @@
 # 🏆 백준 코딩 테스트 (JAVA)
 > 기업 코딩 테스트 합격을 목표로 **단계별로 풀어보기 (1~29단계)**를 완주합니다.
 
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=본인아이디)](https://solved.ac/junho0726)
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=junho0726)](https://solved.ac/junho0726)
 
 ---
 
